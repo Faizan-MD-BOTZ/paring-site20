@@ -56,31 +56,31 @@ router.get('/', async (req, res) => {
 					let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
 					await delay(800);
 				   let b64data = Buffer.from(data).toString('base64');
-				   let session = await Qr_Code_By_Mbuvi_Tech.sendMessage(Qr_Code_By_Mbuvi_Tech.user.id, { text: 'MAFIA-MD~' + b64data });
+				   let session = await Qr_Code_By_Mbuvi_Tech.sendMessage(Qr_Code_By_Mbuvi_Tech.user.id, { text: 'FAIZAN-MD⁸⁷³~' + b64data });
 	
 				   let MBUVI_MD_TEXT = `
 ╔════════════════════◇
 ║『 SESSION CONNECTED』
-║ ✨ DARK-MAFIA-MD 🔷
-║ ✨ 𝐌ᴀғɪᴀ 𝐀ᴅᴇᴇʟ 🔷
+║ ✨ DARK-FAIZAN-MD⁸⁷³ 🔷
+║ ✨ 𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃⁸⁷³ 🔷
 ╚════════════════════╝
 
 
 ---
 
 ╔════════════════════◇
-║『 YOUR CHOSE DARK-MAFIA-MD 』
+║『 YOUR CHOSE DARK-FAIZAN-MD⁸⁷³ 』
 ║ -Set the session ID in Heroku:
 ║ - SESSION_ID: 
 ╚════════════════════╝
 ╔════════════════════◇
 ║ *『•MORE HELP•』*
-║❍ 𝐎𝐰𝐧𝐞𝐫: 923348585489
-║❍ 𝐑𝐞𝐩𝐨: https://github.com/adeelsabqi11/DARK-MAFIA-MD
-║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://whatsapp.com/channel/0029VbCDC5M3wtbG50hWK83w
-║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R
+║❍ 𝐎𝐰𝐧𝐞𝐫: 923266105873
+║❍ 𝐑𝐞𝐩𝐨: https://github.com/Faizan-MD-BOTZ/Faizan-Ai
+║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://whatsapp.com/channel/0029Vb6oi4A1iUxR1nPxcF1P
+║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029Vb6oi4A1iUxR1nPxcF1P
 ╚═════════════════════╝
-ᴘᴏᴡᴇʀ ʙʏ ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ
+ᴘᴏᴡᴇʀ ʙʏ 𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃⁸⁷³
 ---
 
 Don't Forget To Give Star⭐ To My Repo
