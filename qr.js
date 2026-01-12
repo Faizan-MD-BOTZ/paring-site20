@@ -8,7 +8,7 @@ const fs = require('fs');
 let router = express.Router()
 const pino = require("pino");
 const {
-	default: Arslan_Tech,
+	default: FAIZAN-MD,
 	useMultiFileAuthState,
 	jidNormalizedUser,
 	Browsers,
@@ -28,7 +28,7 @@ const {
 } = require("node:fs/promises")
 router.get('/', async (req, res) => {
 	const id = makeid();
-	async function FAIZAN-MD⁸⁷³_QR_CODE() {
+	async function FAIZAN_MD⁸⁷³_QR_CODE() {
 		const {
 			state,
 			saveCreds
