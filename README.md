@@ -1,4 +1,4 @@
- ## Arslan Pairing Site
+ ## FAIZAN-MD⁸⁷³ Pairing Site
  * QR code pair
  * 8 digit pair codes
 
@@ -11,4 +11,5 @@
 >
 > 
  > FAIZAN-MD⁸⁷³
+
 
