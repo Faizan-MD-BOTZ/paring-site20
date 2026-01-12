@@ -6,8 +6,9 @@
 * [Heroku](  https://heroku.com/deploy?template=https://github.com/Arslan-MD/Arslan-Pairing-Site)
  
  all regards to
- > ArslanMD Official
+ > FAIZAN-MD⁸⁷³ Official
 >
 >
 > 
- > Arslan Tech
+ > FAIZAN-MD⁸⁷³
+
